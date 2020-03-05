@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Paper.NET</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">ВАШ ЛОГИН</string>
+    <string name="prompt_password">ВАШ ПАРОЛЬ</string>
+    <string name="login">ЛОГИН</string>
+    <string name="password">ПАРОЛЬ</string>
+    <string name="action_sign_in">ВХОД</string>
+    <string name="action_sign_up">РЕГИСТРАЦИЯ</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">ПАРОЛЬ ДОЛЖЕН БЫТЬ БОЛЬШЕ 5 СИМВОЛОВ</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="info">"2020"</string>
+    <string name="admin_header">УПРАВЛЕНИЕ</string>
+    <string name="employee_header">ВАШИ КОНТЕЙНЕРЫ</string>
+    <string name="button_show">Показать</string>
+    <string name="send_container_info">ОБНОВИТЬ СТАТУС</string>
+    <string name="authorization">АВТОРИЗАЦИЯ</string>
+    <string name="problems">ПРОБЛЕМЫ?\n
+    МЫ ПОМОЖЕМ.</string>
+    <string name="send"></string>
+    <string name="question_problem">В ЧЕМ СУТЬ ПРОБЛЕМЫ?</string>
+    <string name="write_to_us">ОПИШИТЕ ВАШУ ПРОБЛЕМУ МАКСИМАЛЬНО ДЕТАЛЬНО. ОСТАВЬТЕ ВАШУ ПОЧТУ И МЫ ОТВЕТИМ ВАМ!</string>
+
+
+    <string name="full">ЗАПОЛНЕН</string>
+    <string name="empty">ДОСТУПЕН</string>
+
+
+    <string-array name="corps">
+        <item>Все</item>
+        <item>Ломоносова</item>
+        <item>ГК</item>
+        <item>Гастелло</item>
+
+    </string-array>
+</resources>
